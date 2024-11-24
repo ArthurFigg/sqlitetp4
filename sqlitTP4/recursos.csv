@@ -1,0 +1,5 @@
+idRecurso,idProjeto,descricao,tipo,quantidade,dataUtilizacao
+1,1,Servidores,Material,5,2024-01-20
+2,2,Software de Análise,Financeiro,1,2024-02-15
+3,3,Equipe Técnica,Humano,10,2024-03-20
+4,4,Pesquisa Externa,Material,2,2024-04-05

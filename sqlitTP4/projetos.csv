@@ -1,0 +1,5 @@
+idProjeto,nomeProjeto,descricao,dataInicio,dataConclusao,idFuncionarioResponsavel,custo,status
+1,Sistema Interno,"Desenvolvimento de sistema interno da empresa",2024-01-15,2024-07-15,1,20000,Concluído
+2,Campanha Publicitária,"Criação de campanha de marketing digital",2024-02-01,,4,15000,Em Execução
+3,Infraestrutura,"Atualização de rede e servidores",2024-03-10,,5,30000,Em Execução
+4,Análise de Mercado,"Estudo sobre tendências de mercado",2024-04-01,2024-08-01,3,10000,Concluído
